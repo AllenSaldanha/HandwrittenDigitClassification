@@ -1,4 +1,4 @@
-# HandwrittenDigitClassification
+# Handwritten Digit Classification
 Using handwritten numbers from the MNIST dataset to be able to train a model to recognise the handwritten digits
 
 
